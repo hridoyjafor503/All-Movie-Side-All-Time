@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie & Apps Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🎬 Movie & Apps Hub</h1>
+    <p>সব মুভি ও জরুরি অ্যাপ এক জায়গায়</p>
+</header>
+
+<nav>
+    <a href="#english">English Movie</a>
+    <a href="#hindi">Hindi Movie</a>
+    <a href="#bangla">Bangla Movie</a>
+    <a href="#hollywood">Hollywood Movie</a>
+    <a href="#apps">Important Apps</a>
+</nav>
+
+<section id="english">
+    <h2>English Movies</h2>
+    <ul>
+        <li>Action Movie</li>
+        <li>Romantic Movie</li>
+        <li>Comedy Movie</li>
+    </ul>
+</section>
+
+<section id="hindi">
+    <h2>Hindi Movies</h2>
+    <ul>
+        <li>Bollywood Action</li>
+        <li>Bollywood Romantic</li>
+        <li>Bollywood Drama</li>
+    </ul>
+</section>
+
+<section id="bangla">
+    <h2>Bangla Movies</h2>
+    <ul>
+        <li>Bangla New Movie</li>
+        <li>Bangla Classic Movie</li>
+    </ul>
+</section>
+
+<section id="hollywood">
+    <h2>Hollywood Movies</h2>
+    <ul>
+        <li>Hollywood Action</li>
+        <li>Hollywood Sci-Fi</li>
+        <li>Hollywood Thriller</li>
+    </ul>
+</section>
+
+<section id="apps">
+    <h2>Important Apps</h2>
+    <ul>
+        <li>Video Downloader</li>
+        <li>File Manager</li>
+        <li>VPN App</li>
+        <li>Media Player</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2026 Movie & Apps Hub | Created with HTML & CSS</p>
+</footer>
+
+</body>
+</html>
